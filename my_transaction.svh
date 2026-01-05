@@ -19,9 +19,9 @@ class my_transaction extends uvm_sequence_item;
   	static int cnt_in;
    	static int cnt_out;
   
-    constraint c_valid {
-        in_valid == 1;
-    }
+//  constraint c_valid {
+//      in_valid == 1;
+//  }
 
     // Constructor
     function new(string name = "my_transaction");
@@ -35,5 +35,6 @@ class my_transaction extends uvm_sequence_item;
 //         exp_sum  = a ^ b ^ cin;
 //         exp_cout = (a & b) | (cin & (a ^ b));
 //     endfunction
+
 
 endclass: my_transaction
