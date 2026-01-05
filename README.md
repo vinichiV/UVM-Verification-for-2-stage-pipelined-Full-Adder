@@ -20,3 +20,5 @@ The project includes:
 git clone https://github.com/vinichiV/UVM-Verification-for-2-stage-pipelined-Full-Adder
 cd UVM-Verification-for-2-stage-pipelined-Full-Adder
 vsim -do run.do
+
+<img width="883" height="845" alt="image" src="https://github.com/user-attachments/assets/9bf03139-05b6-4d07-b15f-8c56b8af3b93" />
