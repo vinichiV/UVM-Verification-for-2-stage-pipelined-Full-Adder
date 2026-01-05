@@ -23,4 +23,5 @@ cd UVM-Verification-for-2-stage-pipelined-Full-Adder
 
 vsim -do run.do
 ```
-<img width="883" height="845" alt="image" src="https://github.com/user-attachments/assets/9bf03139-05b6-4d07-b15f-8c56b8af3b93" />
+<img width="921" height="848" alt="image" src="https://github.com/user-attachments/assets/bee335b1-57c6-471b-9415-867204e9d407" />
+
